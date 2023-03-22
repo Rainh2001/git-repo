@@ -1,4 +1,4 @@
-# ProgSoc Git Workshop Demo
+# ProgSoc Git Workshop Demo 2022
 
 This is a demo project for the ProgSoc Git Workshop.
 
